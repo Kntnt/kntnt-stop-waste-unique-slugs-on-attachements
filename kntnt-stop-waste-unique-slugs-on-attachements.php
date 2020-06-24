@@ -4,7 +4,7 @@
  * @wordpress-plugin
  * Plugin Name:       Kntnt Stop Waste of Unique Slugs on Attachements
  * Plugin URI:        https://www.kntnt.com/
- * Description:       Stops waste of unique slugs (e.g. stevia) on attachments (media files) by adding a number at the end of its slug (e.g. stevia-2).
+ * Description:       Stops waste of unique slugs (e.g. stevia) on attachments (i.e. media files) by adding a number at the end of its slug (e.g. stevia-2).
  * Version:           1.0.0
  * Author:            Thomas Barregren
  * Author URI:        https://www.kntnt.com/
